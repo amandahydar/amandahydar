@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amandahydar
-- 👀 I’m interested in machine learning, computer vision, and intelligent automation
+- 👀 I’m interested in NLP, computer vision, and intelligent automation
 - 🌱 I’m currently learning full stack deep learning
 - 📫 How to connect with me: https://www.linkedin.com/in/amandahydar/
 
