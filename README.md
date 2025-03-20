@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandahydar
 - 👀 I’m interested in NLP, computer vision, and intelligent automation
-- 🌱 I’m currently learning full stack deep learning
+- 🌱 I’m currently building custom Intelligent Document Processing systems for enterprise customers
 - 📫 How to connect with me: https://www.linkedin.com/in/amandahydar/
 
 <!---
